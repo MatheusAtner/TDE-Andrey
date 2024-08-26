@@ -1,5 +1,11 @@
 # Aluno: Matheus Teixeira Atner
 
+# Este programa recebe um arquivo .txt
+# Contendo Conjuntos e realiza operações
+# A primeira linha contem o numero das operaçoes presentes no txt,
+# Sendo elas: U: união, I: interseção, D: diferença e C: produto cartesiano
+# O programa retorna os resultados das operações
+
 import functools
 
 
